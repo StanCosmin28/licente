@@ -10,7 +10,7 @@ export default function Licente() {
           href="/licenta-efs" // Placeholder link
           onClick={(e) => {
             e.preventDefault();
-            console.log("Navigating to Licenta EFS page...");
+
             // In a real app, you would use a router here, e.g., navigate('/licenta-efs');
           }}
           className="flex flex-col items-center justify-center flex-1
