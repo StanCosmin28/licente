@@ -165,7 +165,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
- */const vre=[["path",{d:"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7",key:"132q7q"}],["rect",{x:"2",y:"4",width:"20",height:"16",rx:"2",key:"izxlao"}]],yre=_I("mail",vre);function ZD(){return y.jsx("div",{className:"min-h-screen bg-gray-100 flex items-center justify-center p-4 font-sans",children:y.jsxs("div",{className:"flex flex-col md:flex-row gap-8 w-full max-w-4xl",children:[y.jsxs("a",{href:"/licenta-efs",onClick:t=>{t.preventDefault(),console.log("Navigating to Licenta EFS page...")},className:`flex flex-col items-center justify-center flex-1
+ */const vre=[["path",{d:"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7",key:"132q7q"}],["rect",{x:"2",y:"4",width:"20",height:"16",rx:"2",key:"izxlao"}]],yre=_I("mail",vre);function ZD(){return y.jsx("div",{className:"min-h-screen bg-gray-100 flex items-center justify-center p-4 font-sans",children:y.jsxs("div",{className:"flex flex-col md:flex-row gap-8 w-full max-w-4xl",children:[y.jsxs("a",{href:"/licenta-efs",onClick:t=>{t.preventDefault()},className:`flex flex-col items-center justify-center flex-1
                      bg-white
                      p-8 rounded-3xl shadow-xl hover:shadow-2xl
                      transform hover:-translate-y-2 transition-all duration-300 ease-in-out
